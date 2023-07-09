@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 https://th.bing.com/th?id=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2
 https://user-images.githubusercontent.com
   /55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981leaf70.gif
+
+  https://github.com/ankitanjana23/ankitanjana23/blob/main/animation.gif
 -->
 <h1 align="center">Hi 👋, I'm Ankit Anjana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981leaf70.gif" >
+<img align="right" alt="coding" width = "400" src = "https://github.com/ankitanjana23/ankitanjana23/blob/main/animation.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitanjana23&label=Profile%20views&color=0e75b6&style=flat" alt="ankitanjana23" /> </p>
 
