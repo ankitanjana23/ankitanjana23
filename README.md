@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ankitanjana23/ankitanjana23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ankit Anjana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="left" alt="coding" width = "400" src = "![image](https://github.com/ankitanjana23/ankitanjana23/assets/136179445/51d577f0-f3f6-4fbb-8bb0-1b155dca8902)
+<img align="left" alt="coding" width = "400"> src = "![image](https://github.com/ankitanjana23/ankitanjana23/assets/136179445/51d577f0-f3f6-4fbb-8bb0-1b155dca8902)
 
 " >
 
