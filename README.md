@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ankit Anjana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="left" alt="coding" width = "400"> src = "![image](https://github.com/ankitanjana23/ankitanjana23/assets/136179445/51d577f0-f3f6-4fbb-8bb0-1b155dca8902)
-
-" >
+<img align="right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com
+  /55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981leaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitanjana23&label=Profile%20views&color=0e75b6&style=flat" alt="ankitanjana23" /> </p>
 
